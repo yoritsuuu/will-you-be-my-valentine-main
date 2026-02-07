@@ -39,14 +39,14 @@ export default function Page() {
       {yesPressed ? (
         <>
           <img src={img2} />
-          <div className="my-4 text-4xl font-bold">WOOOOOO!!! Ijj ente aa pulle nee!! ;))</div>
+          <div className="my-4 text-4xl font-bold">WOOOOOO!!!Nandhi und monee!!🫦🫦🫦 ;))</div>
         </>
       ) : (
         <>
           <img
             className="h-[200px]"
             src={img1} />
-          <h1 className="my-4 text-4xl">Nammde valentine aakuo pullee???</h1>
+          <h1 className="my-4 text-4xl">Ente Valentine aakuo nee😭😭😭???</h1>
           <div className="flex items-center">
             <button
               className={`mr-4 rounded bg-green-500 px-4 py-2 font-bold text-white hover:bg-green-700`}

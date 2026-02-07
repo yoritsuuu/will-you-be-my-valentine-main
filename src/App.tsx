@@ -39,7 +39,7 @@ export default function Page() {
       {yesPressed ? (
         <>
           <img src={img2} />
-          <div className="my-4 text-4xl font-bold">WOOOOOO!!!Nandhi und monee!!🫦🫦🫦 ;))</div>
+          <div className="my-4 text-4xl font-bold">WOOOOOO!!!Nandhi und my pookiee❤️❤️❤️❤️❤️!!🫦🫦🫦 ;))</div>
         </>
       ) : (
         <>
